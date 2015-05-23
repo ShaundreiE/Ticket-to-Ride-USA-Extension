@@ -1,5 +1,5 @@
 # Ticket-to-Ride-USA-Extension
-Provides different options of how to play Ticket to Ride\n
+Provides different options of how to play Ticket to Ride
 1. Number of Players
 2. Short, medium, long, or any combination of distances
 3. Teamplay
